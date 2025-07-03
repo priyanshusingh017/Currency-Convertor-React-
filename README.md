@@ -1,23 +1,33 @@
 # Currency Converter
 
-This project is a simple currency converter built with React and Vite. It features a clean interface, fast performance, and live currency conversion rates.
+A simple and fast currency converter built with React and Vite. Instantly convert between currencies using live exchange rates and a clean, responsive interface.
 
 ## Features
 
-- Real-time currency conversion
-- Responsive and minimal UI
-- Built with React and Vite for optimal development experience
-
-## Development
-
-To ensure code quality, ESLint is configured with recommended rules. For larger or production-ready projects, consider integrating TypeScript and type-aware linting. Refer to the [TypeScript ESLint documentation](https://typescript-eslint.io) for more details.
+- Live currency conversion with up-to-date rates
+- Minimal, responsive UI for all devices
+- Built using React and Vite for rapid development
+- ESLint configured for code quality
 
 ## Getting Started
 
-1. Install dependencies:  
-    `npm install`
-2. Start the development server:  
-    `npm run dev`
-3. Open your browser at `http://localhost:5173`
+1. **Install dependencies:**  
+    ```bash
+    npm install
+    ```
+2. **Start the development server:**  
+    ```bash
+    npm run dev
+    ```
+3. **Open your browser:**  
+    Visit [http://localhost:5173](http://localhost:5173)
 
-Feel free to contribute or suggest improvements!
+## Development Notes
+
+- ESLint is set up with recommended rules.
+- For larger projects, consider adding TypeScript and type-aware linting. See the [TypeScript ESLint docs](https://typescript-eslint.io) for guidance.
+
+## Contributing
+
+Contributions and suggestions are welcome!  
+[GitHub Repository](https://github.com/priyanshusingh017/Currency-Convertor-React-)
