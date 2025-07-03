@@ -31,3 +31,8 @@ A simple and fast currency converter built with React and Vite. Instantly conver
 
 Contributions and suggestions are welcome!  
 [GitHub Repository](https://github.com/priyanshusingh017/Currency-Convertor-React-)
+
+## Special Thanks
+
+Special thanks to [Hitesh Choudhary](https://github.com/hiteshchoudhary) for inspiration and guidance.
+
